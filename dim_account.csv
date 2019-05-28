@@ -1,0 +1,4 @@
+account_id,sor_account_id,source_system_id,account_nm,currency_cd,tax_status_cd,load_cache_flg,fiscal_year_end,firm_id,active_flg,batch_dt,created_program_nm,created_user_nm,created_ts,modified_program_nm,modified_user_nm,modified_ts
+TST12347-3-1,TST12347,3,TST12347,USD,,,,1,t,2017-02-10,CONV,,2017-02-12 07:07:03,,,
+TST12346-5-1,TST12346,5,TST12346,USD,,,,1,t,2017-02-10,CONV,,2017-02-12 07:07:03,,,
+10007-5-1,10007,5,10007,USD,,,,1,t,2017-02-10,CONV,,2017-02-12 07:07:03,,,
