@@ -1,0 +1,9 @@
+account_id,entity_type_cd,entity_id,date_type_cd,date_type_dt,firm_id,program_ind,active_flg,batch_dt,created_program_nm,created_user_nm,created_ts
+TST12345-3-1,TST12345,3,ADPDT,1/13/2016,1,UMA,t,H_Glue_Stub_Rec_v,"""2019-05-27 05:52:35.0""",,H_Glue_Stub_Rec_v
+TST12345-3-1,TST12345,3,ADPDT,1/13/2017,1,UMA,t,H_Glue_Stub_Rec_v,"""2019-05-27 05:52:35.0""",,H_Glue_Stub_Rec_v
+TST12345-3-1,TST12345,3,ADPDT,1/13/2018,1,UMA,t,H_Glue_Stub_Rec_v,"""2019-05-27 05:52:35.0""",,H_Glue_Stub_Rec_v
+TST12345-3-1,TST12345,4,USD,1/13/2016,1,ABC,t,H_Glue_Stub_Rec_v,"""2019-05-27 05:52:35.0""",,H_Glue_Stub_Rec_v
+TST12345-3-1,TST12345,4,USD,1/13/2017,1,ABC,t,H_Glue_Stub_Rec_v,"""2019-05-27 05:52:35.0""",,H_Glue_Stub_Rec_v
+TST12345-3-1,TST12345,4,USD,1/13/2018,1,ABC,t,H_Glue_Stub_Rec_v,"""2019-05-27 05:52:35.0""",,H_Glue_Stub_Rec_v
+TST12349-3-1,TST12349,3,ADPDT,1/13/2016,1,UMA,t,H_Glue_Stub_Rec_v,"""2019-05-27 05:52:35.0""",,H_Glue_Stub_Rec_v
+TST12349-3-1,TST12349,3,ADPDT,1/13/2017,1,UMA,t,H_Glue_Stub_Rec_v,"""2019-05-27 05:52:35.0""",,H_Glue_Stub_Rec_v
