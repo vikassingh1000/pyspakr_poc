@@ -1,0 +1,2 @@
+source_system_id,source_system_nm,source_system_desc,file_nm,file_source_cd,security_priority_nbr,price_priority_nbr,enable_recon_flg,recon_pos_delta_flg,recon_bal_delta_flg,firm_id,active_flg,batch_dt,created_program_nm,created_user_nm,created_ts,modified_program_nm,modified_user_nm,modified_ts
+3,0189,BPS BAS 0001,L003,BPS,4,6,t,f,f,1,t,,SEED,UPGRADE,2015-12-18 06:58:27.159536,,,

@@ -1,0 +1,5 @@
+instrument_id,issue_dt,start_dt,maturity_dt,end_dt,first_accrual_dt,first_coupon_dt,pre_refund_dt,sor_instrument_id,instrument_desc,source_system_id,currency_cd,instrument_name_1,instrument_name_2,instrument_type_cd,constituent_benchmark_id,constituent_benchmark_start_dt,constituent_benchmark_end_dt,constituent_benchmark_prct,qty_factor_val,interest_rt,coupon_freq_cd,pending_payment_days,opt_call_put_flg,opt_strike_price_amt,underlying_instrument_id,year_count_cd,day_count_cd,interest_rate_type_cd,firm_id,active_flg,batch_dt,created_program_nm,created_user_nm,created_ts,modified_program,modified_user,modified_ts
+1,,1753-01-01,,9999-12-31,,,,999-USD,,1,999,,,FOREX,,,,,,,,,,,,,,,1,t,2017-02-10,CONV_CUR_EXCH_INS,,2017-02-12 07:07:30,,,
+2,,1753-01-01,,9999-12-31,,,,PW_SPWI-1,,1,ADP,,,FOREX,,,,,,,,,,,,,,,1,t,2017-02-10,CONV_CUR_EXCH_INS,,2017-02-12 07:07:30,,,
+3,,1753-01-01,,9999-12-31,,,,PW_SPWI-2,,1,AED,,,FOREX,,,,,,,,,,,,,,,1,t,2017-02-10,CONV_CUR_EXCH_INS,,2017-02-12 07:07:30,,,
+4,,1753-01-01,,9999-12-31,,,,PW_SPWI-3,,1,AFA,,,FOREX,,,,,,,,,,,,,,,1,t,2017-02-10,CONV_CUR_EXCH_INS,,2017-02-12 07:07:30,,,
