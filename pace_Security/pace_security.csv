@@ -1,0 +1,4 @@
+entity_id,class_type_id,entity_type_cd,overriding_entity_type_cd,overriding_entity_id,effective_from_dt,effective_to_dt,firm_id,active_flg,batch_dt,created_program_nm,created_user_nm,created_ts
+1002,901,SECURITY,,,1753-01-01,9999-12-31,1,t,2019-01-15,,,2019-01-16 14:12:34.196296
+1003,900,SECURITY,,,1753-01-01,9999-12-31,1,t,2019-01-15,,,2019-01-16 14:12:34.196296
+1004,900,SECURITY,,,1753-01-01,9999-12-31,1,t,2019-01-15,,,2019-01-16 14:12:34.196296
