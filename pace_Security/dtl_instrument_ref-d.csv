@@ -1,0 +1,6 @@
+instrument_id,source_system_id,instrument_ref_type_cd,instrument_ref_nm,start_dt,end_dt,firm_id,active_flg,batch_dt,created_program_nm,created_user_nm,created_ts,modified_program,modified_user,modified_ts
+241,3,CU,00141A321,1753-01-01,2020-02-15,1,true,2/10/2017,CONV,,2017-02-12 3:47:00,BATCH_MSC,,2017-02-12 3:47:00
+242,3,CU,001419837,1753-01-01,2020-02-15,1,true,2/10/2017,CONV,,2017-02-12 3:47:00,BATCH_MSC,,2017-02-12 3:47:00
+243,3,CU,G8842J122,1753-01-01,2020-02-15,1,true,2/10/2017,CONV,,2017-02-12 3:47:00,BATCH_MSC,,2017-02-12 3:47:00
+244,3,CU,G9318R101,1753-01-01,2020-02-15,1,true,2/10/2017,CONV,,2017-02-12 3:47:00,BATCH_MSC,,2017-02-12 3:47:00
+245,3,CU,G9318R103,1753-01-01,2020-02-15,1,true,2/10/2017,CONV,,2017-02-12 3:47:00,BATCH_MSC,,2017-02-12 3:47:00
