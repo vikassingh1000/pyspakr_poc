@@ -1,0 +1,1 @@
+entity_id,class_type_id,entity_type_cd,overriding_entity_type_cd,overriding_entity_id,effective_from_dt,effective_to_dt,firm_id,active_flg,batch_dt,created_program_nm,created_user_nm,created_ts
