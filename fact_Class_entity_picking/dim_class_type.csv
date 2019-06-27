@@ -1,0 +1,5 @@
+class_type_id,child_class_type_cd,child_class_val,parent_class_type_cd,parent_class_val,usage_type_cd,entity_type_cd,mandatory_flg,firm_id,active_flg,batch_dt,created_program_nm,created_user_nm,created_ts,modified_program,modified_user,modified_ts
+900,SEC_ELIGIBLE,PACE SELECT,,,ATTR DEFAULT,SECURITY,f,1,t,2019-01-01,SEED,UPGRADE,2019-06-03 22:09:44,,,
+901,SEC_ELIGIBLE,PACE MULTI,,,ATTR DEFAULT,SECURITY,f,1,t,2019-01-01,SEED,UPGRADE,2019-06-03 22:09:44,,,
+902,Demo1,PACE SELECT,,,ATTR DEFAULT,SECURITY,f,1,t,2019-01-01,SEED,UPGRADE,2019-06-03 22:09:44,,,
+903,Demo2,PACE MULTI,,,ATTR DEFAULT,SECURITY,f,1,t,2019-01-01,SEED,UPGRADE,2019-06-03 22:09:44,,,
