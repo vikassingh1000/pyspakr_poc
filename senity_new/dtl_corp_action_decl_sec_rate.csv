@@ -1,0 +1,4 @@
+"corp_action_decl_id","source_system_id","new_instrument_id","original_instrument_rt","new_instrument_rt","cil_rt","open_price","firm_id","active_flg","batch_dt","created_program_nm","created_user_nm","created_ts","modified_program_nm","modified_user_nm","modified_ts"
+"99999992","1","19851","","","","11.75","1","t","2018-07-20","GLUE POC","GLUE","2019-05-15 05:01:05.712237","","",""
+"99999991","1","33070","","","","33.75","1","t","2018-07-20","GLUE POC","GLUE","2019-05-15 04:57:11.413185","","",""
+"99999991","1","33070","","","","32.75","1","t","2018-07-20","GLUE POC","GLUE","2016-03-03 14:22:11.668985","","",""

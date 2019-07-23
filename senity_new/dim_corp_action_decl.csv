@@ -1,0 +1,4 @@
+"corp_action_decl_id","pay_dt","ex_dt","record_dt","sor_corp_action_id","source_system_id","corp_action_type_cd","original_instrument_id","cash_rt","corp_action_index","voluntary_flg","firm_id","active_flg","batch_dt","created_program_nm","created_user_nm","created_ts","modified_program_nm","modified_user_nm","modified_ts"
+"99999991","2018-07-20","","","","3","EXCHNG","6808041",,"1","f","1","t","2018-07-20","GLUE POC","GLUE","2016-03-03 14:21:16.735155","","",""
+"99999991","2018-07-20","","","","3","EXCHNG","6808041",,"1","f","1","t","2018-07-20","GLUE POC","GLUE","2019-05-15 04:57:14.563966","","",""
+"99999992","2018-07-20","","","","3","EXCHNG","6808041",,"1","f","1","t","2018-07-20","GLUE POC","GLUE","2019-05-15 05:01:10.239704","","",""
